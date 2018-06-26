@@ -1,0 +1,14 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "tab always, enter when suggestion explicitly selected"
+  core:
+    telemetryConsent: "limited"
+  editor:
+    scrollSensitivity: 100
+    showIndentGuide: true
+    tabLength: 4
+    zoomFontWhenCtrlScrolling: false
+  "exception-reporting":
+    userId: "c0f290f3-f32e-49a3-b850-55c69e359b54"
+  welcome:
+    showOnStartup: false
